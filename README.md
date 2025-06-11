@@ -9,7 +9,6 @@ A clean, responsive counter application with smooth animations built with HTML, 
 - ➕ Increment counter
 - ➖ Decrement counter
 - 🔄 Reset to zero
-- 📱 Fully responsive design
 - 🎨 Modern UI with shadow effects
 - ⚡ Smooth hover animations
 - 🔢 Large, clear counter display
